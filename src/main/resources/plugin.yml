@@ -1,0 +1,5 @@
+name: StartOnDemand
+version: 1.0
+author: halleg
+main: halleg.spigot.plugin.SpigotPlugin
+api-version: 1.16

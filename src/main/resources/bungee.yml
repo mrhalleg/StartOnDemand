@@ -1,0 +1,4 @@
+name: StartOnDemand
+main: halleg.bungee.plugin.BungeePlugin
+version: 1.0
+author: halleg
